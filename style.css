@@ -5,17 +5,19 @@ background-color: #99ccff;
 
 }
 
-#container
+.container
 
 {
 
 	width: 100%;
+	
 	margin-left: auto;
 	margin-right: auto;
+	
 
 }
 
-#logo
+.logo
 
 {
 
@@ -27,7 +29,7 @@ background-color: #99ccff;
 
 }
 
-#menu
+.menu
 
 {
 
@@ -39,7 +41,7 @@ background-color: #99ccff;
 
 }
 
-#baner
+.baner
 
 {
 
@@ -51,7 +53,7 @@ background-color: #99ccff;
 
 }
 
-#naglowek
+.naglowek
 {
 
   
@@ -60,37 +62,82 @@ background-color: #99ccff;
 	font-size: 20px;
 	font-weight: bold;
 	text-align:center;
-	margin-left: auto;
-	margin-right: auto;
-
-}
-
-
-#nag1
-
-{
-
-	margin-left: 20%;
-	float:left;
-	min-height:100px;
-	text-align:center;
-	background-color: #000;
-	color: blue;
-	min-width: 600px;
-
-}
-
-#nag2
-
-{
-
-	margin-right: 10%;
-	float:left;
-	min-width: 600px;
-	min-height:100px;
-	text-align:center;
-	background-color: #00cc99;
-	color: blue;
+	
 	
 
 }
+
+
+.nag1
+
+{
+
+	
+	min-height:200px;
+	text-align:center;
+	background-color: yellow;
+	color: blue;
+	margin: 0 auto;
+	width: 50%;
+	float:left;
+
+}
+
+.nag2
+
+{
+
+
+	min-height:200px;
+	text-align:center;
+	background-color: #00cc99;
+	color: blue;
+	width: 50%;
+	margin: 0 auto;
+	float:left;
+	
+
+}
+
+.galeria
+{
+
+
+background-color: grey;
+text-align: center;
+width: 100%;
+}
+
+.galeriain
+{
+
+margin: auto;
+	max-width: 900px;
+	text-align: center;
+}
+
+
+
+
+.kolumna
+{
+
+float:left;
+	text-align:center;
+	
+}
+
+
+
+.stopka
+{
+
+width:100%;
+background-color: green;
+text-align: center;
+clear: both;
+
+
+}
+
+
