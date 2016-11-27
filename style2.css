@@ -16,7 +16,14 @@ background-color: #99ccff;
 	
 
 }
+.look
+{
 
+float:left;
+text-align: center;
+padding: 10px;
+
+}
 .logo
 
 {
@@ -24,10 +31,27 @@ background-color: #99ccff;
 	width: 100%;
 	padding: 8px 0;
 	min-height:250px;
-	background-color: #006699;
+	background-color: #FFF;
 	text-align: center;
+	font-size: 30px;
+	color: #3399ff;
+	font-family: Tahoma;
+	font-weight: bold;
+	
 
 }
+
+.containermenu
+
+{
+
+	width:400px;
+	margin-left: auto;
+	margin-right: auto;
+
+
+}
+
 
 .menu
 
@@ -40,7 +64,6 @@ background-color: #99ccff;
 	text-align: center;
 
 }
-
 .mapa
 {
 
@@ -89,8 +112,8 @@ background-color: #99ccff;
 	
 	min-height:200px;
 	text-align:center;
-	background-color: yellow;
-	color: blue;
+	
+	color: black;
 	margin: 0 auto;
 	width: 33%;
 	float:left;
@@ -102,10 +125,10 @@ background-color: #99ccff;
 {
 
 
-	min-height:200px;
+	min-height:300px;
 	text-align:center;
-	background-color: #00cc99;
-	color: blue;
+	background-color: #003399;
+	color: white;
 	width: 33%;
 	margin: 0 auto;
 	float:left;
@@ -119,9 +142,9 @@ background-color: #99ccff;
 {
 
 
-	min-height:200px;
+	min-height:300px;
 	text-align:center;
-	background-color: black;
+	background-color: #003366;
 	color: white;
 	width: 34%;
 	margin: 0 auto;
@@ -194,11 +217,30 @@ margin: auto;
 {
 
 width:100%;
-background-color: green;
+min-height: 40px;
+background-color: #330099;
 text-align: center;
 clear: both;
+color: white;
+padding-top: 15px;
+font-weight: bold;
 
 
 }
 
+a
+{
+
+color: white;
+font-weight: bold;
+font-size: 14px;
+text-decoration: none; 
+}
+
+h2
+{
+
+font-size:20px;
+font-weight: bold;
+}
 
