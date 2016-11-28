@@ -1,7 +1,7 @@
 body
 {
 
-background-color: #99ccff;
+background-color: #003366;
 
 }
 
@@ -94,7 +94,6 @@ font-weight: bold;
 
   
 	width:100%;
-	background-color: #FFFFFF;
 	font-size: 16px;
 	
 	text-align:center;
@@ -111,8 +110,6 @@ font-weight: bold;
 	
 	min-height:400px;
 	text-align:center;
-	background-color: #003399;
-	color: blue;
 	margin: 0 auto;
 	width: 50%;
 	float:left;
@@ -128,7 +125,6 @@ font-weight: bold;
 
 	min-height:400px;
 	text-align:center;
-	background-color: #003366;
 	color: white;
 	width: 50%;
 	margin: 0 auto;

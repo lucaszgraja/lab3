@@ -1,7 +1,7 @@
 body
 {
 
-background-color: #99ccff;
+background-color: #003366;
 
 }
 
@@ -70,7 +70,7 @@ padding: 10px;
 	width: 100%;
 	padding: 8px 0;
 	min-height:200px;
-	background-color: red;
+	background-color: #3366ff;
 	text-align: center;
 
 
@@ -83,10 +83,10 @@ padding: 10px;
 {
 
 	width: 100%;
-	padding: 8px 0;
-	min-height:200px;
-	background-color: #00cccc;
+	min-height:210px;
 	text-align: center;
+	background-repeat: repeat-x;
+	background-image: url(chopin.jpg);
 
 }
 
@@ -115,7 +115,7 @@ padding: 10px;
 	
 	color: black;
 	margin: 0 auto;
-	width: 33%;
+	width: 28%;
 	float:left;
 
 }
@@ -126,10 +126,10 @@ padding: 10px;
 
 
 	min-height:300px;
-	text-align:center;
-	background-color: #003399;
+	text-align:left;
+	
 	color: white;
-	width: 33%;
+	width: 38%;
 	margin: 0 auto;
 	float:left;
 	
@@ -143,8 +143,8 @@ padding: 10px;
 
 
 	min-height:300px;
-	text-align:center;
-	background-color: #003366;
+	text-align:left;
+	
 	color: white;
 	width: 34%;
 	margin: 0 auto;
@@ -193,8 +193,8 @@ margin: auto;
 
 	min-height:200px;
 	text-align:center;
-	background-color: purple;
-	color: blue;
+	background-color: #003366;
+	color: white;
 	margin: 0 auto;
 	width: 30%;
 	float:left;
@@ -205,12 +205,14 @@ margin: auto;
 {
 
 	min-height:200px;
-	text-align:center;
-	background-color: orange;
-	color: blue;
+	text-align:justify;
+	background-color: #003366;
+	color: white;
 	margin: 0 auto;
 	width: 70%;
 	float:left;
+	font-size: 16px;
+	font-weight: normal;
 }
 
 .stopka
@@ -242,5 +244,6 @@ h2
 
 font-size:20px;
 font-weight: bold;
+color:white;
 }
 
